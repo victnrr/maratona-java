@@ -9,7 +9,7 @@ Eu <nome>, morando no endereço <endereço>, confirmo que recebi o salário de <
 public class Aula03TiposPrimitivosExercicio {
     static void main() {
         String nome = "Victor";
-        String endereco = "Avenida Hélio Gueiros";
+        String endereco = "Belém";
         float salario = 5400.50F;
         String dataRecebimentoSalario = "16/04/2026";
         String relatorio = "Eu "+nome+" morando no endereço "+endereco+ "confirmo que recebi o salárip de "+salario+", na data "+dataRecebimentoSalario;
